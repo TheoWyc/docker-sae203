@@ -6,10 +6,10 @@
 
 ## Membres de l'équipe
 
-- A2 - CARPENTIER Abderrazak
-- A2 - DUMONT Jean-Yves
-- A2 - WYCHOWSKI Hugues
-- C1 - SOILLE--LECLERC  ALexis
+- A2 - CARPENTIER Mathys
+- A2 - DUMONT Enzo
+- A2 - WYCHOWSKI Théo
+- C1 - SOILLE--LECLERC ALexis
 
 ## Liens vers le site web du projet
 
